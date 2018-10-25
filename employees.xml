@@ -1,0 +1,23 @@
+<!-- employees.xml -->
+<employees>
+  <employee id="101">
+    <name>Frankie Johnny</name>
+    <age>36</age>
+  </employee>
+  <employee id="102">
+    <name>Elvis Presley</name>
+    <age>79</age>
+  </employee>
+  <employee id="301">
+    <name>Ella Fitzgerald</name>
+    <age>102</age>
+  </employee>
+  <employee id="111">
+    <name>Iain Brighton</name>
+    <age>37</age>
+  </employee>
+  <employee id="999">
+    <name>Philippe Martin</name>
+    <age>60</age>
+  </employee>
+</employees>

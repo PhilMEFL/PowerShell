@@ -1,0 +1,1058 @@
+﻿<Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04">
+  <Obj RefId="0">
+    <TN RefId="0">
+      <T>System.__ComObject#{07f7438c-7709-4ca5-b518-91279288134e}</T>
+      <T>System.__ComObject</T>
+      <T>System.MarshalByRefObject</T>
+      <T>System.Object</T>
+    </TN>
+    <IE>
+      <Obj RefId="1">
+        <TN RefId="1">
+          <T>System.__ComObject#{c1c2f21a-d2f4-4902-b5c6-8a081c19a890}</T>
+          <T>System.__ComObject</T>
+          <T>System.MarshalByRefObject</T>
+          <T>System.Object</T>
+        </TN>
+        <ToString>System.__ComObject</ToString>
+        <Props>
+          <S N="Title">Update for Windows 8.1 for x64-based Systems (KB3013816)</S>
+          <B N="AutoSelectOnWebSites">false</B>
+          <Obj N="BundledUpdates" RefId="2">
+            <TNRef RefId="0" />
+            <IE>
+              <Obj RefId="3">
+                <TNRef RefId="1" />
+                <ToString>System.__ComObject</ToString>
+                <Props>
+                  <S N="Title">windows8.1-kb3013816-x64</S>
+                  <B N="AutoSelectOnWebSites">false</B>
+                  <Obj N="BundledUpdates" RefId="4">
+                    <TNRef RefId="0" />
+                    <IE />
+                  </Obj>
+                  <B N="CanRequireSource">false</B>
+                  <Obj N="Categories" RefId="5">
+                    <TN RefId="2">
+                      <T>System.__ComObject#{3a56bfb8-576c-43f7-9335-fe4838fd7e37}</T>
+                      <T>System.__ComObject</T>
+                      <T>System.MarshalByRefObject</T>
+                      <T>System.Object</T>
+                    </TN>
+                    <IE />
+                  </Obj>
+                  <Nil N="Deadline" />
+                  <B N="DeltaCompressedContentAvailable">true</B>
+                  <B N="DeltaCompressedContentPreferred">true</B>
+                  <Nil N="Description" />
+                  <B N="EulaAccepted">true</B>
+                  <Nil N="EulaText" />
+                  <S N="HandlerID">http://schemas.microsoft.com/msus/2002/12/UpdateHandlers/Cbs</S>
+                  <S N="Identity">System.__ComObject</S>
+                  <Nil N="Image" />
+                  <S N="InstallationBehavior">System.__ComObject</S>
+                  <B N="IsBeta">false</B>
+                  <B N="IsDownloaded">false</B>
+                  <B N="IsHidden">false</B>
+                  <B N="IsInstalled">false</B>
+                  <B N="IsMandatory">false</B>
+                  <B N="IsUninstallable">false</B>
+                  <Obj N="Languages" RefId="6">
+                    <TN RefId="3">
+                      <T>System.__ComObject#{eff90582-2ddc-480f-a06d-60f3fbc362c3}</T>
+                      <T>System.__ComObject</T>
+                      <T>System.MarshalByRefObject</T>
+                      <T>System.Object</T>
+                    </TN>
+                    <IE />
+                  </Obj>
+                  <DT N="LastDeploymentChangeTime">2014-12-09T00:00:00</DT>
+                  <D N="MaxDownloadSize">5074388</D>
+                  <D N="MinDownloadSize">5074388</D>
+                  <Obj N="MoreInfoUrls" RefId="7">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <Nil N="MsrcSeverity" />
+                  <I32 N="RecommendedCpuSpeed">0</I32>
+                  <I32 N="RecommendedHardDiskSpace">0</I32>
+                  <I32 N="RecommendedMemory">0</I32>
+                  <Nil N="ReleaseNotes" />
+                  <Obj N="SecurityBulletinIDs" RefId="8">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <Obj N="SupersededUpdateIDs" RefId="9">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <Nil N="SupportUrl" />
+                  <I32 N="Type">1</I32>
+                  <Nil N="UninstallationNotes" />
+                  <S N="UninstallationBehavior">System.__ComObject</S>
+                  <Obj N="UninstallationSteps" RefId="10">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <Obj N="KBArticleIDs" RefId="11">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <I32 N="DeploymentAction">0</I32>
+                  <I32 N="DownloadPriority">2</I32>
+                  <Obj N="DownloadContents" RefId="12">
+                    <TN RefId="4">
+                      <T>System.__ComObject#{bc5513c8-b3b8-4bf7-a4d4-361c0d8c88ba}</T>
+                      <T>System.__ComObject</T>
+                      <T>System.MarshalByRefObject</T>
+                      <T>System.Object</T>
+                    </TN>
+                    <IE>
+                      <S>System.__ComObject</S>
+                      <S>System.__ComObject</S>
+                      <S>System.__ComObject</S>
+                    </IE>
+                  </Obj>
+                  <B N="RebootRequired">false</B>
+                  <B N="IsPresent">false</B>
+                  <Obj N="CveIDs" RefId="13">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <B N="BrowseOnly">false</B>
+                  <B N="PerUser">false</B>
+                  <I32 N="AutoSelection">0</I32>
+                  <I32 N="AutoDownload">0</I32>
+                </Props>
+              </Obj>
+            </IE>
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">1</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <B N="CanRequireSource">false</B>
+          <Obj N="Categories" RefId="14">
+            <TNRef RefId="2" />
+            <IE>
+              <Obj RefId="15">
+                <TN RefId="5">
+                  <T>System.__ComObject#{81ddc1b8-9d35-47a6-b471-5b80f519223b}</T>
+                  <T>System.__ComObject</T>
+                  <T>System.MarshalByRefObject</T>
+                  <T>System.Object</T>
+                </TN>
+                <ToString>System.__ComObject</ToString>
+                <Props>
+                  <S N="Name">Updates</S>
+                  <S N="CategoryID">cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83</S>
+                  <Obj N="Children" RefId="16">
+                    <TNRef RefId="2" />
+                    <IE />
+                  </Obj>
+                  <S N="Description">A broadly released fix for a specific problem addressing a noncritical, non-security-related bug.</S>
+                  <Nil N="Image" />
+                  <I32 N="Order">-1</I32>
+                  <Nil N="Parent" />
+                  <S N="Type">UpdateClassification</S>
+                  <Obj N="Updates" RefId="17">
+                    <TNRef RefId="0" />
+                    <IE>
+                      <S>System.__ComObject</S>
+                      <Ref RefId="1" />
+                    </IE>
+                  </Obj>
+                </Props>
+              </Obj>
+              <Obj RefId="18">
+                <TNRef RefId="5" />
+                <ToString>System.__ComObject</ToString>
+                <Props>
+                  <S N="Name">Windows 8.1</S>
+                  <S N="CategoryID">6407468e-edc7-4ecd-8c32-521f64cee65e</S>
+                  <Obj N="Children" RefId="19">
+                    <TNRef RefId="2" />
+                    <IE />
+                  </Obj>
+                  <S N="Description">Windows 8.1</S>
+                  <Nil N="Image" />
+                  <I32 N="Order">-1</I32>
+                  <S N="Parent">System.__ComObject</S>
+                  <S N="Type">Product</S>
+                  <Obj N="Updates" RefId="20">
+                    <TNRef RefId="0" />
+                    <IE>
+                      <S>System.__ComObject</S>
+                      <S>System.__ComObject</S>
+                      <Ref RefId="1" />
+                    </IE>
+                  </Obj>
+                </Props>
+              </Obj>
+            </IE>
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">2</I32>
+            </Props>
+          </Obj>
+          <Nil N="Deadline" />
+          <B N="DeltaCompressedContentAvailable">true</B>
+          <B N="DeltaCompressedContentPreferred">true</B>
+          <S N="Description">Install this update to resolve issues in Windows. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer.</S>
+          <B N="EulaAccepted">true</B>
+          <Nil N="EulaText" />
+          <Nil N="HandlerID" />
+          <Obj N="Identity" RefId="21">
+            <TN RefId="6">
+              <T>System.__ComObject#{46297823-9940-4c09-aed9-cd3ea6d05968}</T>
+              <T>System.__ComObject</T>
+              <T>System.MarshalByRefObject</T>
+              <T>System.Object</T>
+            </TN>
+            <ToString>System.__ComObject</ToString>
+            <Props>
+              <I32 N="RevisionNumber">201</I32>
+              <S N="UpdateID">51962451-2048-4523-b9f5-3e2965f278de</S>
+            </Props>
+          </Obj>
+          <Nil N="Image" />
+          <Obj N="InstallationBehavior" RefId="22">
+            <TN RefId="7">
+              <T>System.__ComObject#{d9a59339-e245-4dbd-9686-4d5763e39624}</T>
+              <T>System.__ComObject</T>
+              <T>System.MarshalByRefObject</T>
+              <T>System.Object</T>
+            </TN>
+            <ToString>System.__ComObject</ToString>
+            <Props>
+              <B N="CanRequestUserInput">false</B>
+              <I32 N="Impact">0</I32>
+              <I32 N="RebootBehavior">2</I32>
+              <B N="RequiresNetworkConnectivity">false</B>
+            </Props>
+          </Obj>
+          <B N="IsBeta">false</B>
+          <B N="IsDownloaded">false</B>
+          <B N="IsHidden">false</B>
+          <B N="IsInstalled">false</B>
+          <B N="IsMandatory">false</B>
+          <B N="IsUninstallable">false</B>
+          <Obj N="Languages" RefId="23">
+            <TNRef RefId="3" />
+            <IE />
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">0</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <DT N="LastDeploymentChangeTime">2014-12-09T00:00:00</DT>
+          <D N="MaxDownloadSize">5074388</D>
+          <D N="MinDownloadSize">5074388</D>
+          <Obj N="MoreInfoUrls" RefId="24">
+            <TNRef RefId="3" />
+            <IE>
+              <S>http://support.microsoft.com/kb/3013816</S>
+            </IE>
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">1</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <Nil N="MsrcSeverity" />
+          <I32 N="RecommendedCpuSpeed">0</I32>
+          <I32 N="RecommendedHardDiskSpace">0</I32>
+          <I32 N="RecommendedMemory">0</I32>
+          <Nil N="ReleaseNotes" />
+          <Obj N="SecurityBulletinIDs" RefId="25">
+            <TNRef RefId="3" />
+            <IE />
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">0</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <Obj N="SupersededUpdateIDs" RefId="26">
+            <TNRef RefId="3" />
+            <IE>
+              <S>fed993c6-231a-4ea8-a1dc-78dd7565c232</S>
+            </IE>
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">1</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <S N="SupportUrl">http://support.microsoft.com</S>
+          <I32 N="Type">1</I32>
+          <S N="UninstallationNotes">This software update can be removed by selecting View installed updates in the Programs and Features Control Panel.</S>
+          <Obj N="UninstallationBehavior" RefId="27">
+            <TNRef RefId="7" />
+            <ToString>System.__ComObject</ToString>
+            <Props>
+              <B N="CanRequestUserInput">false</B>
+              <I32 N="Impact">0</I32>
+              <I32 N="RebootBehavior">2</I32>
+              <B N="RequiresNetworkConnectivity">false</B>
+            </Props>
+          </Obj>
+          <Obj N="UninstallationSteps" RefId="28">
+            <TNRef RefId="3" />
+            <IE />
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">0</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <Obj N="KBArticleIDs" RefId="29">
+            <TNRef RefId="3" />
+            <IE>
+              <S>3013816</S>
+            </IE>
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">1</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <I32 N="DeploymentAction">1</I32>
+          <I32 N="DownloadPriority">2</I32>
+          <Obj N="DownloadContents" RefId="30">
+            <TNRef RefId="4" />
+            <IE />
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">0</I32>
+            </Props>
+          </Obj>
+          <B N="RebootRequired">false</B>
+          <B N="IsPresent">false</B>
+          <Obj N="CveIDs" RefId="31">
+            <TNRef RefId="3" />
+            <IE />
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">0</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <B N="BrowseOnly">true</B>
+          <B N="PerUser">false</B>
+          <I32 N="AutoSelection">0</I32>
+          <I32 N="AutoDownload">0</I32>
+        </Props>
+      </Obj>
+      <Obj RefId="32">
+        <TNRef RefId="1" />
+        <ToString>System.__ComObject</ToString>
+        <Props>
+          <S N="Title">Update for Windows 8.1 for x64-based Systems (KB3013769)</S>
+          <B N="AutoSelectOnWebSites">false</B>
+          <Obj N="BundledUpdates" RefId="33">
+            <TNRef RefId="0" />
+            <IE>
+              <Obj RefId="34">
+                <TNRef RefId="1" />
+                <ToString>System.__ComObject</ToString>
+                <Props>
+                  <S N="Title">windows8.1-kb3013769-x64</S>
+                  <B N="AutoSelectOnWebSites">false</B>
+                  <Obj N="BundledUpdates" RefId="35">
+                    <TNRef RefId="0" />
+                    <IE />
+                  </Obj>
+                  <B N="CanRequireSource">false</B>
+                  <Obj N="Categories" RefId="36">
+                    <TNRef RefId="2" />
+                    <IE />
+                  </Obj>
+                  <Nil N="Deadline" />
+                  <B N="DeltaCompressedContentAvailable">true</B>
+                  <B N="DeltaCompressedContentPreferred">true</B>
+                  <Nil N="Description" />
+                  <B N="EulaAccepted">true</B>
+                  <Nil N="EulaText" />
+                  <S N="HandlerID">http://schemas.microsoft.com/msus/2002/12/UpdateHandlers/Cbs</S>
+                  <S N="Identity">System.__ComObject</S>
+                  <Nil N="Image" />
+                  <S N="InstallationBehavior">System.__ComObject</S>
+                  <B N="IsBeta">false</B>
+                  <B N="IsDownloaded">false</B>
+                  <B N="IsHidden">false</B>
+                  <B N="IsInstalled">false</B>
+                  <B N="IsMandatory">false</B>
+                  <B N="IsUninstallable">false</B>
+                  <Obj N="Languages" RefId="37">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <DT N="LastDeploymentChangeTime">2014-12-09T00:00:00</DT>
+                  <D N="MaxDownloadSize">58515593</D>
+                  <D N="MinDownloadSize">58515593</D>
+                  <Obj N="MoreInfoUrls" RefId="38">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <Nil N="MsrcSeverity" />
+                  <I32 N="RecommendedCpuSpeed">0</I32>
+                  <I32 N="RecommendedHardDiskSpace">0</I32>
+                  <I32 N="RecommendedMemory">0</I32>
+                  <Nil N="ReleaseNotes" />
+                  <Obj N="SecurityBulletinIDs" RefId="39">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <Obj N="SupersededUpdateIDs" RefId="40">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <Nil N="SupportUrl" />
+                  <I32 N="Type">1</I32>
+                  <Nil N="UninstallationNotes" />
+                  <S N="UninstallationBehavior">System.__ComObject</S>
+                  <Obj N="UninstallationSteps" RefId="41">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <Obj N="KBArticleIDs" RefId="42">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <I32 N="DeploymentAction">0</I32>
+                  <I32 N="DownloadPriority">2</I32>
+                  <Obj N="DownloadContents" RefId="43">
+                    <TNRef RefId="4" />
+                    <IE>
+                      <S>System.__ComObject</S>
+                      <S>System.__ComObject</S>
+                      <S>System.__ComObject</S>
+                    </IE>
+                  </Obj>
+                  <B N="RebootRequired">false</B>
+                  <B N="IsPresent">false</B>
+                  <Obj N="CveIDs" RefId="44">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <B N="BrowseOnly">false</B>
+                  <B N="PerUser">false</B>
+                  <I32 N="AutoSelection">0</I32>
+                  <I32 N="AutoDownload">0</I32>
+                </Props>
+              </Obj>
+            </IE>
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">1</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <B N="CanRequireSource">false</B>
+          <Obj N="Categories" RefId="45">
+            <TNRef RefId="2" />
+            <IE>
+              <Obj RefId="46">
+                <TNRef RefId="5" />
+                <ToString>System.__ComObject</ToString>
+                <Props>
+                  <S N="Name">Updates</S>
+                  <S N="CategoryID">cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83</S>
+                  <Obj N="Children" RefId="47">
+                    <TNRef RefId="2" />
+                    <IE />
+                  </Obj>
+                  <S N="Description">A broadly released fix for a specific problem addressing a noncritical, non-security-related bug.</S>
+                  <Nil N="Image" />
+                  <I32 N="Order">-1</I32>
+                  <Nil N="Parent" />
+                  <S N="Type">UpdateClassification</S>
+                  <Obj N="Updates" RefId="48">
+                    <TNRef RefId="0" />
+                    <IE>
+                      <Ref RefId="32" />
+                      <S>System.__ComObject</S>
+                    </IE>
+                  </Obj>
+                </Props>
+              </Obj>
+              <Obj RefId="49">
+                <TNRef RefId="5" />
+                <ToString>System.__ComObject</ToString>
+                <Props>
+                  <S N="Name">Windows 8.1</S>
+                  <S N="CategoryID">6407468e-edc7-4ecd-8c32-521f64cee65e</S>
+                  <Obj N="Children" RefId="50">
+                    <TNRef RefId="2" />
+                    <IE />
+                  </Obj>
+                  <S N="Description">Windows 8.1</S>
+                  <Nil N="Image" />
+                  <I32 N="Order">-1</I32>
+                  <S N="Parent">System.__ComObject</S>
+                  <S N="Type">Product</S>
+                  <Obj N="Updates" RefId="51">
+                    <TNRef RefId="0" />
+                    <IE>
+                      <S>System.__ComObject</S>
+                      <Ref RefId="32" />
+                      <S>System.__ComObject</S>
+                    </IE>
+                  </Obj>
+                </Props>
+              </Obj>
+            </IE>
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">2</I32>
+            </Props>
+          </Obj>
+          <Nil N="Deadline" />
+          <B N="DeltaCompressedContentAvailable">true</B>
+          <B N="DeltaCompressedContentPreferred">true</B>
+          <S N="Description">Install this update to resolve issues in Windows. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer.</S>
+          <B N="EulaAccepted">true</B>
+          <Nil N="EulaText" />
+          <Nil N="HandlerID" />
+          <Obj N="Identity" RefId="52">
+            <TNRef RefId="6" />
+            <ToString>System.__ComObject</ToString>
+            <Props>
+              <I32 N="RevisionNumber">202</I32>
+              <S N="UpdateID">f80f971d-e079-4216-b686-bf5d4412376b</S>
+            </Props>
+          </Obj>
+          <Nil N="Image" />
+          <Obj N="InstallationBehavior" RefId="53">
+            <TNRef RefId="7" />
+            <ToString>System.__ComObject</ToString>
+            <Props>
+              <B N="CanRequestUserInput">false</B>
+              <I32 N="Impact">0</I32>
+              <I32 N="RebootBehavior">2</I32>
+              <B N="RequiresNetworkConnectivity">false</B>
+            </Props>
+          </Obj>
+          <B N="IsBeta">false</B>
+          <B N="IsDownloaded">false</B>
+          <B N="IsHidden">false</B>
+          <B N="IsInstalled">false</B>
+          <B N="IsMandatory">false</B>
+          <B N="IsUninstallable">false</B>
+          <Obj N="Languages" RefId="54">
+            <TNRef RefId="3" />
+            <IE />
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">0</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <DT N="LastDeploymentChangeTime">2014-12-09T00:00:00</DT>
+          <D N="MaxDownloadSize">58515593</D>
+          <D N="MinDownloadSize">58515593</D>
+          <Obj N="MoreInfoUrls" RefId="55">
+            <TNRef RefId="3" />
+            <IE>
+              <S>http://support.microsoft.com/kb/3013769</S>
+            </IE>
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">1</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <Nil N="MsrcSeverity" />
+          <I32 N="RecommendedCpuSpeed">0</I32>
+          <I32 N="RecommendedHardDiskSpace">0</I32>
+          <I32 N="RecommendedMemory">0</I32>
+          <Nil N="ReleaseNotes" />
+          <Obj N="SecurityBulletinIDs" RefId="56">
+            <TNRef RefId="3" />
+            <IE />
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">0</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <Obj N="SupersededUpdateIDs" RefId="57">
+            <TNRef RefId="3" />
+            <IE>
+              <S>10b1f6b6-2444-4c9c-a252-ddfbc5781b65</S>
+              <S>1382a4ab-1d81-4355-a929-539e68053753</S>
+              <S>b6a1dbb2-b32e-4537-bd3d-38f89982e87e</S>
+              <S>e219b681-ea39-4ebc-be81-ae6eab998936</S>
+            </IE>
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">4</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <S N="SupportUrl">http://support.microsoft.com</S>
+          <I32 N="Type">1</I32>
+          <S N="UninstallationNotes">This software update can be removed by selecting View installed updates in the Programs and Features Control Panel.</S>
+          <Obj N="UninstallationBehavior" RefId="58">
+            <TNRef RefId="7" />
+            <ToString>System.__ComObject</ToString>
+            <Props>
+              <B N="CanRequestUserInput">false</B>
+              <I32 N="Impact">0</I32>
+              <I32 N="RebootBehavior">2</I32>
+              <B N="RequiresNetworkConnectivity">false</B>
+            </Props>
+          </Obj>
+          <Obj N="UninstallationSteps" RefId="59">
+            <TNRef RefId="3" />
+            <IE />
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">0</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <Obj N="KBArticleIDs" RefId="60">
+            <TNRef RefId="3" />
+            <IE>
+              <S>3013769</S>
+            </IE>
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">1</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <I32 N="DeploymentAction">1</I32>
+          <I32 N="DownloadPriority">2</I32>
+          <Obj N="DownloadContents" RefId="61">
+            <TNRef RefId="4" />
+            <IE />
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">0</I32>
+            </Props>
+          </Obj>
+          <B N="RebootRequired">false</B>
+          <B N="IsPresent">false</B>
+          <Obj N="CveIDs" RefId="62">
+            <TNRef RefId="3" />
+            <IE />
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">0</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <B N="BrowseOnly">true</B>
+          <B N="PerUser">false</B>
+          <I32 N="AutoSelection">0</I32>
+          <I32 N="AutoDownload">0</I32>
+        </Props>
+      </Obj>
+      <Obj RefId="63">
+        <TNRef RefId="1" />
+        <ToString>System.__ComObject</ToString>
+        <Props>
+          <S N="Title">Microsoft .NET Framework 4.5.2 for Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2934520)</S>
+          <B N="AutoSelectOnWebSites">false</B>
+          <Obj N="BundledUpdates" RefId="64">
+            <TNRef RefId="0" />
+            <IE>
+              <Obj RefId="65">
+                <TNRef RefId="1" />
+                <ToString>System.__ComObject</ToString>
+                <Props>
+                  <S N="Title">windows8.1-kb2934520-x64</S>
+                  <B N="AutoSelectOnWebSites">false</B>
+                  <Obj N="BundledUpdates" RefId="66">
+                    <TNRef RefId="0" />
+                    <IE />
+                  </Obj>
+                  <B N="CanRequireSource">false</B>
+                  <Obj N="Categories" RefId="67">
+                    <TNRef RefId="2" />
+                    <IE />
+                  </Obj>
+                  <Nil N="Deadline" />
+                  <B N="DeltaCompressedContentAvailable">false</B>
+                  <B N="DeltaCompressedContentPreferred">true</B>
+                  <Nil N="Description" />
+                  <B N="EulaAccepted">true</B>
+                  <Nil N="EulaText" />
+                  <S N="HandlerID">http://schemas.microsoft.com/msus/2002/12/UpdateHandlers/Cbs</S>
+                  <S N="Identity">System.__ComObject</S>
+                  <Nil N="Image" />
+                  <S N="InstallationBehavior">System.__ComObject</S>
+                  <B N="IsBeta">false</B>
+                  <B N="IsDownloaded">false</B>
+                  <B N="IsHidden">false</B>
+                  <B N="IsInstalled">false</B>
+                  <B N="IsMandatory">false</B>
+                  <B N="IsUninstallable">false</B>
+                  <Obj N="Languages" RefId="68">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <DT N="LastDeploymentChangeTime">2015-01-13T00:00:00</DT>
+                  <D N="MaxDownloadSize">44874817</D>
+                  <D N="MinDownloadSize">0</D>
+                  <Obj N="MoreInfoUrls" RefId="69">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <Nil N="MsrcSeverity" />
+                  <I32 N="RecommendedCpuSpeed">0</I32>
+                  <I32 N="RecommendedHardDiskSpace">0</I32>
+                  <I32 N="RecommendedMemory">0</I32>
+                  <Nil N="ReleaseNotes" />
+                  <Obj N="SecurityBulletinIDs" RefId="70">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <Obj N="SupersededUpdateIDs" RefId="71">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <Nil N="SupportUrl" />
+                  <I32 N="Type">1</I32>
+                  <Nil N="UninstallationNotes" />
+                  <S N="UninstallationBehavior">System.__ComObject</S>
+                  <Obj N="UninstallationSteps" RefId="72">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <Obj N="KBArticleIDs" RefId="73">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <I32 N="DeploymentAction">0</I32>
+                  <I32 N="DownloadPriority">2</I32>
+                  <Obj N="DownloadContents" RefId="74">
+                    <TNRef RefId="4" />
+                    <IE>
+                      <S>System.__ComObject</S>
+                    </IE>
+                  </Obj>
+                  <B N="RebootRequired">false</B>
+                  <B N="IsPresent">false</B>
+                  <Obj N="CveIDs" RefId="75">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <B N="BrowseOnly">false</B>
+                  <B N="PerUser">false</B>
+                  <I32 N="AutoSelection">1</I32>
+                  <I32 N="AutoDownload">2</I32>
+                </Props>
+              </Obj>
+              <Obj RefId="76">
+                <TNRef RefId="1" />
+                <ToString>System.__ComObject</ToString>
+                <Props>
+                  <S N="Title">windows8.1-kb2962806-x64</S>
+                  <B N="AutoSelectOnWebSites">false</B>
+                  <Obj N="BundledUpdates" RefId="77">
+                    <TNRef RefId="0" />
+                    <IE />
+                  </Obj>
+                  <B N="CanRequireSource">false</B>
+                  <Obj N="Categories" RefId="78">
+                    <TNRef RefId="2" />
+                    <IE />
+                  </Obj>
+                  <Nil N="Deadline" />
+                  <B N="DeltaCompressedContentAvailable">false</B>
+                  <B N="DeltaCompressedContentPreferred">true</B>
+                  <Nil N="Description" />
+                  <B N="EulaAccepted">true</B>
+                  <Nil N="EulaText" />
+                  <S N="HandlerID">http://schemas.microsoft.com/msus/2002/12/UpdateHandlers/Cbs</S>
+                  <S N="Identity">System.__ComObject</S>
+                  <Nil N="Image" />
+                  <S N="InstallationBehavior">System.__ComObject</S>
+                  <B N="IsBeta">false</B>
+                  <B N="IsDownloaded">false</B>
+                  <B N="IsHidden">false</B>
+                  <B N="IsInstalled">false</B>
+                  <B N="IsMandatory">false</B>
+                  <B N="IsUninstallable">false</B>
+                  <Obj N="Languages" RefId="79">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <DT N="LastDeploymentChangeTime">2015-01-13T00:00:00</DT>
+                  <D N="MaxDownloadSize">30221283</D>
+                  <D N="MinDownloadSize">0</D>
+                  <Obj N="MoreInfoUrls" RefId="80">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <Nil N="MsrcSeverity" />
+                  <I32 N="RecommendedCpuSpeed">0</I32>
+                  <I32 N="RecommendedHardDiskSpace">0</I32>
+                  <I32 N="RecommendedMemory">0</I32>
+                  <Nil N="ReleaseNotes" />
+                  <Obj N="SecurityBulletinIDs" RefId="81">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <Obj N="SupersededUpdateIDs" RefId="82">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <Nil N="SupportUrl" />
+                  <I32 N="Type">1</I32>
+                  <Nil N="UninstallationNotes" />
+                  <S N="UninstallationBehavior">System.__ComObject</S>
+                  <Obj N="UninstallationSteps" RefId="83">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <Obj N="KBArticleIDs" RefId="84">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <I32 N="DeploymentAction">0</I32>
+                  <I32 N="DownloadPriority">2</I32>
+                  <Obj N="DownloadContents" RefId="85">
+                    <TNRef RefId="4" />
+                    <IE>
+                      <S>System.__ComObject</S>
+                    </IE>
+                  </Obj>
+                  <B N="RebootRequired">false</B>
+                  <B N="IsPresent">false</B>
+                  <Obj N="CveIDs" RefId="86">
+                    <TNRef RefId="3" />
+                    <IE />
+                  </Obj>
+                  <B N="BrowseOnly">false</B>
+                  <B N="PerUser">false</B>
+                  <I32 N="AutoSelection">1</I32>
+                  <I32 N="AutoDownload">2</I32>
+                </Props>
+              </Obj>
+            </IE>
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">2</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <B N="CanRequireSource">false</B>
+          <Obj N="Categories" RefId="87">
+            <TNRef RefId="2" />
+            <IE>
+              <Obj RefId="88">
+                <TNRef RefId="5" />
+                <ToString>System.__ComObject</ToString>
+                <Props>
+                  <S N="Name">Feature Packs</S>
+                  <S N="CategoryID">b54e7d24-7add-428f-8b75-90a396fa584f</S>
+                  <Obj N="Children" RefId="89">
+                    <TNRef RefId="2" />
+                    <IE />
+                  </Obj>
+                  <S N="Description">New product functionality that is first distributed outside the context of a product release, and usually included in the next full product release.</S>
+                  <Nil N="Image" />
+                  <I32 N="Order">-1</I32>
+                  <Nil N="Parent" />
+                  <S N="Type">UpdateClassification</S>
+                  <Obj N="Updates" RefId="90">
+                    <TNRef RefId="0" />
+                    <IE>
+                      <Ref RefId="63" />
+                    </IE>
+                  </Obj>
+                </Props>
+              </Obj>
+              <Obj RefId="91">
+                <TNRef RefId="5" />
+                <ToString>System.__ComObject</ToString>
+                <Props>
+                  <S N="Name">Windows 8.1</S>
+                  <S N="CategoryID">6407468e-edc7-4ecd-8c32-521f64cee65e</S>
+                  <Obj N="Children" RefId="92">
+                    <TNRef RefId="2" />
+                    <IE />
+                  </Obj>
+                  <S N="Description">Windows 8.1</S>
+                  <Nil N="Image" />
+                  <I32 N="Order">-1</I32>
+                  <S N="Parent">System.__ComObject</S>
+                  <S N="Type">Product</S>
+                  <Obj N="Updates" RefId="93">
+                    <TNRef RefId="0" />
+                    <IE>
+                      <Ref RefId="63" />
+                      <Ref RefId="32" />
+                      <S>System.__ComObject</S>
+                    </IE>
+                  </Obj>
+                </Props>
+              </Obj>
+            </IE>
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">2</I32>
+            </Props>
+          </Obj>
+          <Nil N="Deadline" />
+          <B N="DeltaCompressedContentAvailable">false</B>
+          <B N="DeltaCompressedContentPreferred">true</B>
+          <S N="Description">The Microsoft .NET Framework 4.5.2 is a highly compatible, in-place update to the .NET Framework 4, 4.5 and 4.5.1. By using the .NET Framework 4.5.2 together with the C# or Visual Basic programming languages, you can write Windows Store apps. The .NET Framework 4.5.2 delivers better performance, reliability, and security than previous versions. After you install this update, you may have to restart your computer.</S>
+          <B N="EulaAccepted">true</B>
+          <Nil N="EulaText" />
+          <Nil N="HandlerID" />
+          <Obj N="Identity" RefId="94">
+            <TNRef RefId="6" />
+            <ToString>System.__ComObject</ToString>
+            <Props>
+              <I32 N="RevisionNumber">200</I32>
+              <S N="UpdateID">45fc4e41-7796-4ee3-8394-f4d8c3f7c780</S>
+            </Props>
+          </Obj>
+          <Nil N="Image" />
+          <Obj N="InstallationBehavior" RefId="95">
+            <TNRef RefId="7" />
+            <ToString>System.__ComObject</ToString>
+            <Props>
+              <B N="CanRequestUserInput">false</B>
+              <I32 N="Impact">0</I32>
+              <I32 N="RebootBehavior">2</I32>
+              <B N="RequiresNetworkConnectivity">false</B>
+            </Props>
+          </Obj>
+          <B N="IsBeta">false</B>
+          <B N="IsDownloaded">false</B>
+          <B N="IsHidden">false</B>
+          <B N="IsInstalled">false</B>
+          <B N="IsMandatory">false</B>
+          <B N="IsUninstallable">false</B>
+          <Obj N="Languages" RefId="96">
+            <TNRef RefId="3" />
+            <IE />
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">0</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <DT N="LastDeploymentChangeTime">2015-01-13T00:00:00</DT>
+          <D N="MaxDownloadSize">75096100</D>
+          <D N="MinDownloadSize">0</D>
+          <Obj N="MoreInfoUrls" RefId="97">
+            <TNRef RefId="3" />
+            <IE>
+              <S>http://support.microsoft.com/kb/2934520</S>
+            </IE>
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">1</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <Nil N="MsrcSeverity" />
+          <I32 N="RecommendedCpuSpeed">0</I32>
+          <I32 N="RecommendedHardDiskSpace">0</I32>
+          <I32 N="RecommendedMemory">0</I32>
+          <Nil N="ReleaseNotes" />
+          <Obj N="SecurityBulletinIDs" RefId="98">
+            <TNRef RefId="3" />
+            <IE />
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">0</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <Obj N="SupersededUpdateIDs" RefId="99">
+            <TNRef RefId="3" />
+            <IE />
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">0</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <S N="SupportUrl">http://support.microsoft.com</S>
+          <I32 N="Type">1</I32>
+          <S N="UninstallationNotes">This software update can be removed by selecting View installed updates in the Programs and Features Control Panel.</S>
+          <Obj N="UninstallationBehavior" RefId="100">
+            <TNRef RefId="7" />
+            <ToString>System.__ComObject</ToString>
+            <Props>
+              <B N="CanRequestUserInput">false</B>
+              <I32 N="Impact">0</I32>
+              <I32 N="RebootBehavior">2</I32>
+              <B N="RequiresNetworkConnectivity">false</B>
+            </Props>
+          </Obj>
+          <Obj N="UninstallationSteps" RefId="101">
+            <TNRef RefId="3" />
+            <IE />
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">0</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <Obj N="KBArticleIDs" RefId="102">
+            <TNRef RefId="3" />
+            <IE>
+              <S>2934520</S>
+            </IE>
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">1</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <I32 N="DeploymentAction">1</I32>
+          <I32 N="DownloadPriority">1</I32>
+          <Obj N="DownloadContents" RefId="103">
+            <TNRef RefId="4" />
+            <IE />
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">0</I32>
+            </Props>
+          </Obj>
+          <B N="RebootRequired">false</B>
+          <B N="IsPresent">false</B>
+          <Obj N="CveIDs" RefId="104">
+            <TNRef RefId="3" />
+            <IE />
+            <Props>
+              <S N="_NewEnum">System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</S>
+              <I32 N="Count">0</I32>
+              <B N="ReadOnly">true</B>
+            </Props>
+          </Obj>
+          <B N="BrowseOnly">false</B>
+          <B N="PerUser">false</B>
+          <I32 N="AutoSelection">1</I32>
+          <I32 N="AutoDownload">2</I32>
+        </Props>
+      </Obj>
+    </IE>
+    <Props>
+      <Obj N="_NewEnum" RefId="105">
+        <TN RefId="8">
+          <T>System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</T>
+          <T>System.Object</T>
+        </TN>
+        <ToString>System.Runtime.InteropServices.CustomMarshalers.EnumeratorViewOfEnumVariant</ToString>
+        <Props>
+          <Nil N="Current" />
+        </Props>
+      </Obj>
+      <I32 N="Count">3</I32>
+      <B N="ReadOnly">true</B>
+    </Props>
+  </Obj>
+</Objs>
