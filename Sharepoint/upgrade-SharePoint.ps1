@@ -1,0 +1,1 @@
+﻿'C:\Program Files\Common Files\microsoft shared\Web Server Extensions\15\BIN\PSConfig.exe -cmd upgrade -inplace b2b -force -cmd applicationcontent -install -cmd installfeatures'
