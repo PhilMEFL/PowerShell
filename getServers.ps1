@@ -1,0 +1,2 @@
+$SRVs = Get-ADComputer -LDAPFilter '(&(objectcategory=computer)(OperatingSystem=*server*))' -Properties *
+$SRVs | sort whencreated | ft Name, OperatingSystem, whencreated, description, DistinguishedName
